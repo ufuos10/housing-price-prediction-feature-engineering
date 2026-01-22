@@ -77,5 +77,5 @@ The selected Random Forest model was used to generate house price predictions on
 ---
 
 ## Author
-Egahalemena Ufuoma Moses  
+Eghalemena Ufuoma Moses  
 GitHub: https://github.com/ufuos10
