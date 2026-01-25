@@ -23,20 +23,17 @@ This project focuses on predicting house prices using structured tabular data fr
 ---
 
 ## Workflow
-1. Introduction  
-2. Project Objectives  
-3. Import Libraries  
-4. Load Dataset  
-5. Exploratory Data Analysis (EDA)  
-6. Data Cleaning  
-7. Feature Engineering  
-8. Train–Validation Split  
-9. Model Training  
-10. Model Evaluation  
-11. Model Comparison  
-12. Final Model Selection  
-13. Final House Price Prediction  
-14. Conclusion & Next Steps  
+1. Load Dataset  
+2. Exploratory Data Analysis (EDA)  
+3. Data Cleaning  
+4. Feature Engineering  
+5. Train–Validation Split  
+6. Model Training  
+7. Model Evaluation  
+8. Model Comparison  
+9. Final Model Selection  
+10. Final House Price Prediction  
+11. Conclusion & Next Steps  
 
 ---
 
